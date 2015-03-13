@@ -18,3 +18,6 @@
  [Difference between dispatch_async and dispatch_sync on serial queue?](http://stackoverflow.com/questions/19822700/difference-between-dispatch-async-and-dispatch-sync-on-serial-queue/)
  
  [Is there any guide for iOS runloop mechanism?](http://stackoverflow.com/questions/6216664/is-there-any-guide-for-ios-runloop-mechanism/)
+
+#Runtime
+[Objective-C Runtime: best way to check if class conforms to protocol?](http://stackoverflow.com/questions/3436257/objective-c-runtime-best-way-to-check-if-class-conforms-to-protocol)
