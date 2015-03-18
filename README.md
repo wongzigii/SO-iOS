@@ -21,3 +21,6 @@
 
 #Runtime
 [Objective-C Runtime: best way to check if class conforms to protocol?](http://stackoverflow.com/questions/3436257/objective-c-runtime-best-way-to-check-if-class-conforms-to-protocol)
+
+#Objective-C
+[What is the best way to create constants in Objective-C](http://stackoverflow.com/questions/17228334/what-is-the-best-way-to-create-constants-in-objective-c/17228508#17228508)
